@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Section 4*/
+.section-4{
+	text-align: center;
+	align-items: center;
+}
+
+.section4-content-span{
+	font-family: Noto Sans Kawi;
+	font-size: 2vw;
+	color: #961A55;
+}
+
+/*footer*/
+
+.section-5{
+	background-color: #961A55;
+	display: grid;
+	grid-template-columns: 1fr .5fr 1fr .5fr 1fr;
+	padding-top: 30px;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+.center-tab-footer{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.follow-us-footer,
+.reach-us-footer{
+	padding: 30px;
+}
+.txt-reach-us-footer{
+	font-family: Inter;
+	font-weight: 100;
+	font-size: 1vw;
+	color: #ffffff;
+}
+.title-footer,
+.txt-center-tab-footer{
+	padding-left: 15px;
+	font-family: Noto Sans Kawi;
+	font-size: 1.2vw;
+	color: #ffffff;
+}
+
+.container-follow-us-footer{
+	display: flex;
+	/*flex-direction: row;*/
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+.copyrights-footer{
+	background-color: #961A55;
+	text-align: center;
+}
+
+.span-copyrights-footer{
+	color: white;
+	font-family: Inter;
+	font-size: 0.8vw;
+}
+.metro-copyright{
+	width:10px;
+}
+.img-copyrights-footer{
+	width: 2vw;
+}

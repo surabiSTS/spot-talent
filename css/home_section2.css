@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Home Page section 2*/
+.section-2{
+	display: grid;
+	grid-template-columns: 1.5fr 0.5fr 1.25fr;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: auto;
+}
+.why-title{
+	font-family: Noto Sans Kawi;
+	font-size: 5vw;
+	font-weight: bold;
+	color: #961A55;
+}
+.should-title{
+	font-family: Noto Sans Kawi;
+	font-size: 8vw;
+	font-weight: bold;
+	color: #961A55;
+}
+.you-title{
+	font-family: Noto Sans Kawi;
+	font-size: 5vw;
+	font-weight: bold;
+	color: #961A55;
+	
+}
+.choose-title{
+	font-family: Noto Sans Kawi;
+	font-size: 5vw;
+	color: #961A55;
+	
+}
+
+.us-title{
+	font-family: Noto Sans Kawi;
+	font-size: 10vw;;
+	font-weight: bold;
+	color: #961A55;
+}
+
+.question-title{
+	font-family: Noto Sans Kawi;
+	font-size: 30vw;
+	font-weight: bolder;
+	color: #961A55;
+	line-height: 1.2;
+}
+
+.section2-title{
+	text-align: right;
+	line-height: 1.2;
+	
+}
+.section2-title-question{
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+.section2-content{
+	padding-top: 30px;
+	width: 90%;
+	text-align: justify;
+	font-weight: bold;
+	color: #961A55;
+}

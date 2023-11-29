@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Jobs Page section 3*/
+.section-3{
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+	width: 80%;
+	color: #961A55;
+	
+}
+
+.job-list-div{
+	padding-bottom: 30px;
+}
+.job-list{
+	padding-bottom: 20px;
+}
+
+
+.job-list-title-span{
+	font-size: 2vw;
+	font-weight: bold;
+	
+}
+
+.job-list-decs-span{
+	font-size: 1vw;
+}
+
+.btn-apply-job{
+	background-color: #961A55;
+	color: white;
+	font-size: 1vw;
+	font-weight: bold;
+	padding: 10px;
+	border-style: none;
+	width: 25vw;
+	height: 3vw
+}

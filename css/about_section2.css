@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*About Page section 2*/
+.section-2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-bottom: 30px;
+}
+
+.mission-div,
+.vision-div,
+.values-div{
+	padding-left: 20px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.mission-img,
+.vision-img,
+.values-img{
+	width: 20vw;
+}
+
+.mission-title,
+.vision-title,
+.values-title{
+	color: #961A55;
+	font-weight: bold;
+	font-size: 3vw;
+}
+
+
+.vision-content,
+.mission-content,
+.values-content{
+	color: #961A55;
+	font-size: 1.2vw;
+	padding-left: 20px;
+		
+}

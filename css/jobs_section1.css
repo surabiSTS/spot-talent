@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* About page Section 1*/
+.section-1{
+	background-image: url("../img/bkg1.png");
+	padding-bottom: 20px;
+	
+}
+
+.job-title{
+	padding-top: 30px;
+	font-size: 5vw;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.jobs-menu-section{
+	text-decoration: underline;
+}
+
+.no-link{
+	pointer-events: none;
+}

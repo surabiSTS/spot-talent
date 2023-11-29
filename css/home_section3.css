@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Home Page section 3*/
+.section-3{
+	background-image: url("../img/bkg2.png");
+}
+
+.section3-title{
+	font-family: Noto Sans Kawi;
+	font-size: 5vw;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 20px;
+	padding-bottom: 0;
+}
+
+.section3-content{
+	display: grid;
+	grid-template-columns: 0.5fr 2fr;
+	padding-top: 20px;
+}
+
+.section3-content-right{
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+	padding-bottom: 30px;
+}
+.section3-content-right-row1,
+.section3-content-right-row2,
+.section3-content-right-row3{
+	font-family: Noto Sans Kawi;
+	font-size: 2vw;
+	color: #FFFFFF;
+}

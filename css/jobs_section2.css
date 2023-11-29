@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*JObs Page section 2*/
+.section-2{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #961A55;
+}
+
+.txt-section-2-span{
+	color: #961A55;
+	font-size: 2vw;
+	font-weight: bold;
+}
+
+.btn-submit-resume{
+	background-color: #961A55;
+	color: white;
+	font-size: 2vw;
+	font-weight: bold;
+	padding: 10px;
+	border-style: none;
+	width: 28vw;
+	height: 5vw
+}
+

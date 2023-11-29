@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*body{
+	background-color: black;
+}*/
+span{
+	font-family: Candara;
+	font-size: 1.5vw;
+	text-align: center;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	pointer-events: auto;
+}
+
+@media screen and (max-width: 600px) {
+	
+	.logo-name-div{
+		display: none;
+	}
+
+	.menu-section{
+		flex-direction: column;
+		font-family: Noto Sans Kawi;
+		font-size: 15px;
+		line-height: 2;
+		text-align: center;
+		font-weight: bold;
+  	}
+	.center-tab-footer{
+		flex-direction: column;
+		font-family: Noto Sans Kawi;
+		font-size: 15px;
+		line-height: 2;
+		text-align: center;
+		font-weight: bold;
+	}
+	.container-follow-us-footer{
+		flex-direction: column;
+		align-content: center;
+		justify-content: space-between;
+	}
+	.img-follow-us-footer{
+		width: 40px;
+	}
+	
+}

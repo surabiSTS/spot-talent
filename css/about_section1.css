@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* About page Section 1*/
+.section-1{
+	background-image: url("../img/bkg1.png");
+	padding-bottom: 50px;
+	
+}
+
+.about-title{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 5vw;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.about-content{
+	color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: justify;
+}
+
+.about-menu-section{
+	text-decoration: underline;
+}
+
+.no-link{
+	pointer-events: none;
+}
